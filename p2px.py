@@ -1,3 +1,7 @@
+# from http://pastebin.com/8fBVpjaj
+# Poloniex api python wrapper version 2
+# Copied 06/10/2016 0507Z
+
 import urllib
 import urllib2
 import json
